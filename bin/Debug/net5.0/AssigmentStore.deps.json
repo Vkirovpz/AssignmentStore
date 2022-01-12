@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AssigmentStore/1.0.0": {
+        "runtime": {
+          "AssigmentStore.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AssigmentStore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

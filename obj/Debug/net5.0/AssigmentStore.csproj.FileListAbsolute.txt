@@ -1,0 +1,16 @@
+C:\Users\Valentin\Desktop\c#\InterviewTask\AssignmentStore\bin\Debug\net5.0\AssigmentStore.exe
+C:\Users\Valentin\Desktop\c#\InterviewTask\AssignmentStore\bin\Debug\net5.0\AssigmentStore.deps.json
+C:\Users\Valentin\Desktop\c#\InterviewTask\AssignmentStore\bin\Debug\net5.0\AssigmentStore.runtimeconfig.json
+C:\Users\Valentin\Desktop\c#\InterviewTask\AssignmentStore\bin\Debug\net5.0\AssigmentStore.runtimeconfig.dev.json
+C:\Users\Valentin\Desktop\c#\InterviewTask\AssignmentStore\bin\Debug\net5.0\AssigmentStore.dll
+C:\Users\Valentin\Desktop\c#\InterviewTask\AssignmentStore\bin\Debug\net5.0\ref\AssigmentStore.dll
+C:\Users\Valentin\Desktop\c#\InterviewTask\AssignmentStore\bin\Debug\net5.0\AssigmentStore.pdb
+C:\Users\Valentin\Desktop\c#\InterviewTask\AssignmentStore\obj\Debug\net5.0\AssigmentStore.csproj.AssemblyReference.cache
+C:\Users\Valentin\Desktop\c#\InterviewTask\AssignmentStore\obj\Debug\net5.0\AssigmentStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valentin\Desktop\c#\InterviewTask\AssignmentStore\obj\Debug\net5.0\AssigmentStore.AssemblyInfoInputs.cache
+C:\Users\Valentin\Desktop\c#\InterviewTask\AssignmentStore\obj\Debug\net5.0\AssigmentStore.AssemblyInfo.cs
+C:\Users\Valentin\Desktop\c#\InterviewTask\AssignmentStore\obj\Debug\net5.0\AssigmentStore.csproj.CoreCompileInputs.cache
+C:\Users\Valentin\Desktop\c#\InterviewTask\AssignmentStore\obj\Debug\net5.0\AssigmentStore.dll
+C:\Users\Valentin\Desktop\c#\InterviewTask\AssignmentStore\obj\Debug\net5.0\ref\AssigmentStore.dll
+C:\Users\Valentin\Desktop\c#\InterviewTask\AssignmentStore\obj\Debug\net5.0\AssigmentStore.pdb
+C:\Users\Valentin\Desktop\c#\InterviewTask\AssignmentStore\obj\Debug\net5.0\AssigmentStore.genruntimeconfig.cache
